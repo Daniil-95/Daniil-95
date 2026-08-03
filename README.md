@@ -56,80 +56,11 @@ I enjoy creating fast, responsive interfaces, integrating APIs and building scal
 
 ---
 
-# Featured Projects
-
-## 🎹 Cherkashyna Piano
-
-Modern website for a professional pianist.
-
-**Stack**
-
-- Next.js
-- TypeScript
-- Strapi CMS
-- PostgreSQL
-- Prisma
-- SCSS
-
-**Highlights**
-
-- Dynamic content management
-- Responsive design
-- SEO optimization
-- Modern architecture
-
-🔗 Repository: https://github.com/Daniil-95/cherkashynapiano.com
-
----
-
-## 📈 Marketing AI Hub
-
-AI-powered marketing dashboard with analytics and content generation.
-
-**Stack**
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- OpenAI API
-- Recharts
-
-**Highlights**
-
-- AI Marketing Assistant
-- Dashboard
-- SEO Article Generator
-- Analytics
-
----
-
-## 🔍 Google SERP Exporter
-
-Application for collecting, storing and exporting Google search results.
-
-**Stack**
-
-- PHP 8.3
-- Nette Framework
-- SQLite
-- Docker
-- REST API
-
-**Highlights**
-
-- Search history
-- API integration
-- Dockerized development
-- Clean architecture
-
----
-
 # Commercial Experience
 
 ### Frontend / PHP Developer
 
-**1.8+ years**
+**3+ years**
 
 Commercial development of:
 
@@ -148,14 +79,6 @@ Commercial development of:
 - 💼 Open to Frontend / Full-stack opportunities
 - 🌱 Learning advanced React ecosystem
 - 🚀 Building portfolio projects
-
----
-
-# Contact
-
-- LinkedIn
-- Email
-- GitHub
 
 ---
 
