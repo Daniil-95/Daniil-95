@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋
 
-<!--
-**Daniil-95/Daniil-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from Prague 🇨🇿
 
-Here are some ideas to get you started:
+React • Next.js • TypeScript • PHP • Nette
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I'm a frontend developer with commercial experience building web applications.
+
+Currently working with:
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Strapi
+- PostgreSQL
+- Prisma
+
+---
+
+## Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- PHP
+- Nette
+- PostgreSQL
+- Prisma
+- Git
